@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\obj\Debug\ModelEF.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\PagedList.dll
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\PagedList.xml
+C:\Users\USER\OneDrive - University of Technology and Education\Documents\Visual Studio 2017\Projects\BT cuối kì\PhamVinh\ModelEF\bin\Debug\PagedList.Mvc.xml
